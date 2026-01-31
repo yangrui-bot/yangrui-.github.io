@@ -1,0 +1,26 @@
+<!-- index.html 完整内容 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>轮胎胎龄计算器</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* 这里是你复制的CSS样式 */
+        body { font-family: Arial; max-width: 500px; margin: 50px auto; padding: 20px; }
+        /* ... 完整样式 ... */
+    </style>
+</head>
+<body>
+    <!-- 这里是你复制的HTML内容 -->
+    <h2>🚗 轮胎胎龄计算器</h2>
+    <!-- ... 完整HTML ... -->
+    
+    <script>
+        // 这里是你复制的JavaScript代码
+        function calculateAge() {
+            // ... 完整JavaScript代码 ...
+        }
+    </script>
+</body>
+</html>
